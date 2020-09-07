@@ -1,4 +1,4 @@
-Basic console-application/adventure-quest built using hte .NET framework.
+Basic console-application/adventure-quest built using the .NET framework.
 
 
 UX is as follows, accompanied by '[]' which mean a specific action is required
