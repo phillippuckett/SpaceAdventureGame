@@ -1,5 +1,6 @@
 Basic console-application/adventure-quest built using the .NET framework.
 
+--------------------------------------------------------------------------------------
 //KEY//
 
 UX/GameFlow = '>'
@@ -21,7 +22,6 @@ UX/GameFlow = '>'
                        Denied > still prints "you have received __" 'TravelTo' **PATCHED, but not fixed entirely; needs to be prettier**
                        
 ----------------------------------------------------------------------------------------
-
 //OTHER POTENTIAL IMPROVEMENTS//
 
 [ ] Migrate everything from Console-dependent to Console-INDEPENDENT
